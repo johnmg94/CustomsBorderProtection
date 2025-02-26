@@ -1,0 +1,134 @@
+Original Value,Mapped Value
+2025 (FYTD),1
+FYTD,1
+Remaining,2
+DEC,1
+NOV,2
+OCT,3
+APR,4
+AUG,5
+FEB,6
+JAN,7
+JUL,8
+JUN,9
+MAR,10
+MAY,11
+SEP,12
+Office of Field Operations,1
+U.S. Border Patrol,2
+Northern Land Border,1
+Other,2
+Southwest Land Border,3
+Boston Field Office,1
+Buffalo Field Office,2
+Detroit Field Office,3
+Portland Field Office,4
+Seattle Field Office,5
+Atlanta Field Office,6
+Baltimore Field Office,7
+Chicago Field Office,8
+Houston Field Office,9
+Laredo Field Office,10
+Los Angeles Field Office,11
+Miami Field Office,12
+New Orleans Field Office,13
+New York Field Office,14
+Preclearance Field Office,15
+San Diego Field Office,16
+San Francisco Field Office,17
+San Juan Field Office,18
+Tampa Field Office,19
+Tucson Field Office,20
+El Paso Field Office,21
+Blaine Sector,22
+Buffalo Sector,23
+Detroit Sector,24
+Grand Forks Sector,25
+Havre Sector,26
+Houlton Sector,27
+Spokane Sector,28
+Swanton Sector,29
+Miami Sector,30
+New Orleans Sector,31
+Ramey Sector,32
+Big Bend Sector,33
+Del Rio Sector,34
+El Centro Sector,35
+El Paso Sector,36
+Laredo Sector,37
+Rio Grande Valley Sector,38
+San Diego Sector,39
+Tucson Sector,40
+Yuma Sector,41
+Boston,1
+Buffalo,2
+Detroit,3
+Portland,4
+Seattle,5
+Atlanta,6
+Baltimore,7
+Chicago,8
+Houston,9
+Laredo,10
+Los Angeles,11
+Miami,12
+New Orleans,13
+New York,14
+Preclearance,15
+San Diego,16
+San Francisco,17
+San Juan,18
+Tampa,19
+Tucson,20
+El Paso,21
+BLW,22
+BUN,23
+DTM,24
+GFN,25
+HVM,26
+HLT,27
+SPW,28
+SWB,29
+MIP,30
+NLL,31
+RMY,32
+BBT,33
+DRT,34
+ELC,35
+EPT,36
+LRT,37
+RGV,38
+SDC,39
+TCA,40
+YUM,41
+Accompanied Minors,1
+FMUA,2
+Single Adults,3
+UC / Single Minors,4
+CANADA,1
+BRAZIL,2
+"CHINA, PEOPLES REPUBLIC OF",3
+COLOMBIA,4
+INDIA,5
+MEXICO,6
+OTHER,7
+ROMANIA,8
+ECUADOR,9
+HAITI,10
+NICARAGUA,11
+PERU,12
+PHILIPPINES,13
+UKRAINE,14
+VENEZUELA,15
+EL SALVADOR,16
+MYANMAR (BURMA),17
+TURKEY,18
+CUBA,19
+GUATEMALA,20
+HONDURAS,21
+RUSSIA,22
+Title 42,1
+Title 8,2
+Expulsions,1
+Inadmissibles,2
+Apprehensions,3
