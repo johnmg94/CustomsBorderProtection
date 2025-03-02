@@ -5,3 +5,4 @@ venv
 /assets
 \assets
 assets
+__pycache__/
